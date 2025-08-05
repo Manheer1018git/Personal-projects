@@ -1,4 +1,4 @@
-﻿// we have used MealyMoore FSM in this task
+﻿// we have used MealyMoore FSM in this task.
 using System;
 namespace SimpleReactionMachine
 {
