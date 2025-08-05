@@ -12,7 +12,7 @@ using namespace std;
 
 /**
  * Different options for the kind of ship.
- * Adjusts the image used.
+ * Adjusts the image used
  */
 enum ship_kind
 {
